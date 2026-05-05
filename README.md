@@ -1,64 +1,48 @@
+<!-- HEADER: Using readme-typing-svg (very reliable, hosted by DenverCoder9) -->
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:0d9488&height=200&section=header&text=Pawan%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pawan+Kumar;AI%2FML+Engineer;Full-Stack+Developer;Open+Source+Builder" alt="Typing SVG"/>
+</h1>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-0ea5e9?style=for-the-badge" />
+</p>
 
-<br/>
-
-<div align="center">
-
-<!-- Availability Badge -->
-<a href="mailto:pawankumar731179@gmail.com">
-  <img src="https://img.shields.io/badge/🟢%20Available%20for%20Opportunities-0ea5e9?style=for-the-badge&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/pawan-kumar-931343291">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Kpawankumar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:pawankumar731179@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="tel:+917300301508">
-  <img src="https://img.shields.io/badge/+91%207300301508-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Kpawankumar&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+<p>
+  <a href="https://linkedin.com/in/pawan-kumar-931343291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kpawankumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pawankumar731179@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Kpawankumar&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+</p>
 
 </div>
 
 ---
 
-## `> whoami`
 
-```python
-class PawanKumar:
-    name        = "Pawan Kumar"
-    location    = "Alwar, Rajasthan, India 🇮🇳"
-    education   = "B.E. Computer Science @ MBM University, Jodhpur (2023–2027)"
-    role        = ["AI/ML Engineer", "Full-Stack Developer", "Open Source Builder"]
-    available   = True  # Open to internships, remote roles & collaborations
+---
 
-    focus       = [
-        "Production-grade AI/ML systems",
-        "LLM integrations & RAG pipelines",
-        "Full-stack web applications",
-        "Cloud deployment & DevOps"
-    ]
+### 👨‍💻 About Me
+<p align="center">
+  I am a Computer Science Engineering undergraduate at MBM University and a Platform Developer at AIPlaneTech. I specialize in building production-grade AI systems, full-stack web applications, and scalable cloud architectures. 
+</p>
 
-    currently_learning = ["Advanced LLM Agents", "System Design", "MLOps"]
-    fun_fact    = "I led a robotics team that built a self-playing Tic-Tac-Toe bot 🤖"
-```
+*   🎓 **Education:** 3rd-year B.E. Computer Science at MBM University, Jodhpur (2023–2027)
+*   💼 **Current Role:** AI/ML Engineer & Platform Developer at **AIPlaneTech**
+*   🌱 **Currently Learning:** Advanced LLM Agents, System Design, and MLOps
+*   🎯 **Current Focus:** LLM integrations, RAG pipelines, Computer Vision, and Cloud Deployment
+*   🤖 **Fun Fact:** I previously served as a Robotics Team Lead for ESRC Robotics, building IoT/sensor-based projects and a self-playing Tic-Tac-Toe bot!
+*   ⚡ **Availability:** Open to internships, Offline/Remote roles, Full time opportunity and open-source collaborations.
 
 ---
 
@@ -66,104 +50,133 @@ class PawanKumar:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kpawankumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&icon_color=6366f1&text_color=e2e8f0&rank_icon=github&include_all_commits=true"/>
+<!-- Using github-stats (self-hosted, more reliable than vercel) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kpawankumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawankumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=e2e8f0&langs_count=8"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kpawankumar&theme=tokyonight&hide_border=true&background=0a0d14&stroke=38bdf8&ring=6366f1&fire=0d9488&currStreakLabel=38bdf8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawankumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpawankumar&bg_color=0a0d14&color=38bdf8&line=6366f1&point=0d9488&area=true&hide_border=true" width="95%"/>
+<!-- Streak stats — using new reliable URL (streak-stats.demolab.com) -->
+<img width="60%" src="https://streak-stats.demolab.com?user=Kpawankumar&theme=tokyonight&hide_border=true&mode=weekly&hide=longest_streak" />
+
+<br/><br/>
+
+<!-- Quick stats badges (always load, no external image server) -->
+<img src="https://img.shields.io/github/followers/Kpawankumar?label=Followers&style=flat-square&color=0ea5e9&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKpawankumar&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=6366f1&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Graph
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- Using githubchart.com — day-level heatmap, very reliable -->
+<div align="center">
 
-### 🤝 Career Match — AI Recruitment Platform
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-[![Live](https://img.shields.io/badge/Status-Deployed-22c55e?style=flat-square)](https://github.com/Kpawankumar)
+[![Pawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kpawankumar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20Jan%202025%20to%20Present)](https://github.com/Kpawankumar)
 
-**Stack:**
-`React (TypeScript)` `Python` `Flask` `PostgreSQL` `Gemini API` `GCP` `Docker` `Firebase`
-
-- 🧠 AI-powered resume parsing & semantic job matching
-- 📝 Automated job description generation via LLM
-- 🔐 Role-based dashboards for recruiters & candidates
-- ☁️ Full production deployment on Google Cloud Platform
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 RAG System — Production Q&A Engine
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-
-**Stack:**
-`Python` `Flask` `React` `HuggingFace` `FAISS` `Docker`
-
-- 📚 Semantic search over curated knowledge bases
-- 🤖 Context-aware LLM generation (no hallucinations)
-- ⚡ FAISS vector store for fast similarity lookups
-- 🐳 Fully containerized and production-ready
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ Visual Question Answering System
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-
-**Stack:**
-`Python` `Gemini API` `Flask` `OpenCV`
-
-- 🖼️ Image-based complex visual reasoning
-- 🔮 Powered by Google Gemini multimodal API
-- 🌐 Live demo via Flask web interface
-- 🎯 Handles real-world VQA tasks
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Speech-to-Text Service
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-
-**Stack:**
-`Python` `Gemini API` `Flask` `REST API`
-
-- 🎧 Real-time audio transcription pipeline
-- 🔌 REST API-ready for platform integration
-- 🌍 Multi-language transcription support
-- ⚡ Low-latency, production-grade design
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📦 More Projects — Click to expand</b></summary>
-
-<br/>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📝 **Article Summarizer** | NLP-based document summarization pipeline | Python, Transformers, Flask |
-| 💰 **Employee Salary Prediction** | End-to-end ML model — formulation to deployment | Python, TensorFlow, Scikit-learn |
-| 🤖 **Robotics Suite (ESRC, MBM)** | Line-following robots, Tic-Tac-Toe bot, Bluetooth cars | ESP32, Arduino, IoT, PCB Design |
-
-</details>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+
+---
+
+## 🚀 Featured Projects
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🤝 Career Match — AI Recruitment Platform
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar/career_match)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://frontend-job-1071432896229.asia-south2.run.app/)
+ 
+**Stack:** `React (TypeScript)` `Flask` `PostgreSQL` `Gemini API` `GCP` `Docker` `Firebase`
+ 
+- 🧠 AI-powered resume parsing & semantic job matching
+- 📝 Automated job description generation via LLM
+- 🔐 Role-based dashboards for recruiters & candidates
+- ☁️ Full production deployment on Google Cloud
+</td>
+<td width="50%" valign="top">
+### 🔍 RAG System — Production Q&A Engine
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar/RAG)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://rag-nu-drab.vercel.app/)
+ 
+**Stack:** `Python` `Flask` `React` `HuggingFace` `FAISS` `Docker`
+ 
+- 📚 Semantic search over curated knowledge bases
+- 🤖 Context-aware LLM generation — no hallucinations
+- ⚡ FAISS vector store for fast similarity lookups
+- 🐳 Fully containerized & production-ready
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### 🧠 AI Insight Pro — Analytics & Data Platform
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar/AI-Insight-Pro)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://frontend-1071432896229.asia-south2.run.app/)
+ 
+**Stack:** `Python` `FastAPI` `BigQuery` `PostgreSQL` `MongoDB` `ChromaDB` `Gemini`
+ 
+- 🗄️ Multi-database ingestion engine (SQL + NoSQL + Cloud)
+- 🔄 ETL pipelines with metadata extraction
+- ☁️ Integrated with AWS, GCP & Azure
+- 🤖 Multi-agent LLM workflows + RAG for reports
+</td>
+<td width="50%" valign="top">
+### 👁️ Visual Question Answering System
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar/VQA)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://github.com/Kpawankumar/VQA)
+ 
+**Stack:** `Python` `Gemini API` `Flask` `OpenCV`
+ 
+- 🖼️ Image-based visual reasoning via Gemini multimodal
+- 🌐 Live deployed web interface
+- 🎯 Handles real-world VQA tasks
+- 🔌 REST API-ready for integration
+</td>
+</tr>
+</table>
+<details>
+<summary><b>📦 More Projects — Click to expand</b></summary>
+<br/>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎙️ **Speech-to-Text Service** | Real-time audio transcription via Gemini API | Python, Gemini API, Flask |
+| 📝 **Article Summarizer** | NLP-based document summarization pipeline | Python, Transformers, Flask |
+| 💰 **Employee Salary Prediction** | End-to-end ML — formulation to deployment | Python, TensorFlow, Scikit-learn |
+| 🤖 **Robotics Suite (ESRC, MBM)** | Line-following robots, Tic-Tac-Toe bot, Bluetooth cars | ESP32, Arduino, IoT, PCB Design |
+ 
+</details>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -180,13 +193,16 @@ class PawanKumar:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Backend & Databases**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 **Frontend**
 
@@ -196,80 +212,11 @@ class PawanKumar:
 **Cloud & DevOps**
 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 💼 Internship Experience
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🏢  AlPlaneTech                          Jun 2025 – Jul 2025           │
-│      AI/ML Engineer Intern                                               │
-│      ▸ Built & deployed ML models integrated into Flask web apps        │
-│      ▸ Developed RAG System for domain-specific question answering       │
-│      ▸ Built Visual QA System + Speech-to-Text Service (Gemini API)     │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🎓  Edunet Foundation (Remote)           Jun 2025 – Jul 2025           │
-│      AI/ML Project Intern                                                │
-│      ▸ 6-week intensive AI/ML internship under expert mentorship         │
-│      ▸ Delivered end-to-end Employee Salary Prediction project           │
-│      ▸ From problem formulation to full model deployment                 │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🤖  ESRC Robotics, MBM University        Jun 2024 – Jul 2024           │
-│      Robotics Team Lead                                                  │
-│      ▸ Led team of 5 — line-following robots, Tic-Tac-Toe bot           │
-│      ▸ Bluetooth-controlled multifunctional cars                         │
-│      ▸ Expertise in IoT, PCB design, ESP32, Arduino                     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Verify |
-|:---|:---|:---:|
-| Software Engineering Job Simulation | JPMorgan Chase | [🔗 View](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_696493f4709d0b438e64bae9_1769070054949_completion_certificate.pdf) |
-| Data Analytics Job Simulation | Deloitte Australia | [🔗 View](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_696493f4709d0b438e64bae9_1769019524445_completion_certificate.pdf) |
-| Introduction to Modern AI | Cisco Networking Academy | [🔗 View](https://www.credly.com/badges/acf19883-3b40-48c8-b31e-2344abcf0a5c/linked_in_profile) |
-| Advanced Software Engineering Simulation | Walmart USA | [🔗 View](https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_696493f4709d0b438e64bae9_1768201600752_completion_certificate.pdf) |
-| Interview & Job Readiness | TCS iON Career Edge | [🔗 View](https://drive.google.com/file/d/1P0HTjk_uaaX8jjrJEDh3U2o5L8Sf5zCZ/view) |
-| Cyber Security Bootcamp | Yhills | [🔗 View](https://drive.google.com/file/d/1nyw5-phFgoK4LsXYfET7edZvxbo_7yDB/view) |
-
-📁 [**View All Certificates on Drive →**](https://drive.google.com/drive/folders/1Ri5hrC_gyiYSDwtnKo-VLNwkITBbV0TP)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake.svg"/>
-</picture>
-
-> ℹ️ Enable the snake by adding a GitHub Actions workflow to auto-generate it. [See guide →](https://github.com/Platane/snk)
 
 </div>
 
@@ -284,7 +231,7 @@ class PawanKumar:
 | 📧 Email | [pawankumar731179@gmail.com](mailto:pawankumar731179@gmail.com) |
 | 💼 LinkedIn | [pawan-kumar-931343291](https://linkedin.com/in/pawan-kumar-931343291) |
 | 🐙 GitHub | [Kpawankumar](https://github.com/Kpawankumar) |
-| 📍 Location | Alwar, Rajasthan, India — Open to Remote Worldwide |
+| 📍 Location | Alwar, Rajasthan, India — Open to remote and onsite opportunities worldwide |
 
 </div>
 
@@ -292,7 +239,9 @@ class PawanKumar:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let%27s+build+something+amazing+together!" alt="footer typing"/>
+
+<br/><br/>
 
 **⭐ If my work interests you — let's build something together.**
 
