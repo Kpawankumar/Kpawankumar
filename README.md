@@ -16,9 +16,6 @@
   <a href="mailto:pawankumar731179@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-22c55e?style=flat-square"/>
-</p>
 
 </div>
 
