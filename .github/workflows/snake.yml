@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 REQUIRED to push to output branch
+  contents: write
 
 jobs:
   generate:
@@ -20,8 +20,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=#00ff00&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch

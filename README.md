@@ -18,8 +18,6 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-22c55e?style=flat-square"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Kpawankumar&style=flat-square&color=0ea5e9&label=Profile+Views"/>
 </p>
 
 </div>
@@ -28,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023–2027)** and an **AI/ML Engineer & Platform Developer at [![AIPlaneTech](https://img.shields.io/badge/AIPlaneTech-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiplanetech.com/)**. I build production-grade AI systems, full-stack applications, and scalable cloud architectures.
+I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023–2027)** and an **AI/ML Engineer & Platform Developer at [AIPlaneTech](https://aiplanetech.com/)**. I build production-grade AI systems, full-stack applications, and scalable cloud architectures.
 
 - 🎯 **Focus:** LLM integrations, RAG pipelines, Computer Vision, Cloud Deployment
 - 🌱 **Learning:** Advanced LLM Agents, System Design, MLOps
@@ -37,44 +35,6 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kpawankumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawankumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpawankumar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
-
----
 
 ## 🚀 Projects
 
@@ -132,7 +92,7 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 ### 👁️ Visual Question Answering System
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar/VQA)
-[![Live](https://img.shields.io/badge/Live-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Kpawankumar/VQA)
+<!-- [![Live](https://img.shields.io/badge/Live-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Kpawankumar/VQA) -->
 
 `Python` `Gemini API` `Flask` `OpenCV`
 
@@ -204,6 +164,44 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kpawankumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawankumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpawankumar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
 
 ---
 
