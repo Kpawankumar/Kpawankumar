@@ -187,7 +187,7 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -197,7 +197,7 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
 </picture>
 
-</div>
+</div> -->
 
 
 ---
