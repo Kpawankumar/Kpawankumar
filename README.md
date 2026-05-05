@@ -1,32 +1,29 @@
+<!-- HEADER: Using readme-typing-svg (very reliable, hosted by DenverCoder9) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:0d9488&height=200&section=header&text=Pawan%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pawan+Kumar;AI%2FML+Engineer;Full-Stack+Developer;Open+Source+Builder" alt="Typing SVG"/>
+</h1>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-0ea5e9?style=for-the-badge" />
+</p>
 
-<br/>
-
-<div align="center">
-
-<a href="mailto:pawankumar731179@gmail.com">
-  <img src="https://img.shields.io/badge/🟢%20Available%20for%20Opportunities-0ea5e9?style=for-the-badge&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/pawan-kumar-931343291">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Kpawankumar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:pawankumar731179@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Kpawankumar&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+<p>
+  <a href="https://linkedin.com/in/pawan-kumar-931343291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kpawankumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pawankumar731179@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Kpawankumar&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+</p>
 
 </div>
 
@@ -57,27 +54,35 @@ class PawanKumar:
 
 ## 📊 GitHub Analytics
 
-> ℹ️ **Note:** Stats cards below are live widgets — they render correctly on GitHub. If you see broken images in a preview tool, that's expected; they will load fine on your actual GitHub profile.
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kpawankumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&icon_color=6366f1&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true"/>
+<!-- Using github-stats (self-hosted, more reliable than vercel) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kpawankumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawankumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=e2e8f0&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawankumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<!-- Total Pushes / Commit Counter -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKpawankumar&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=6366f1&logo=github"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kpawankumar?label=Followers&style=flat-square&color=0ea5e9&logo=github"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Total%20Commits-All%20Time-0d9488?style=flat-square&logo=git&logoColor=white"/>
+<!-- Streak stats — using new reliable URL (streak-stats.demolab.com) -->
+<img width="60%" src="https://streak-stats.demolab.com?user=Kpawankumar&theme=tokyonight&hide_border=true&mode=weekly&hide=longest_streak" />
 
 <br/><br/>
 
-<!-- Activity Graph — month view from Jan 2025 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpawankumar&bg_color=0a0d14&color=38bdf8&line=6366f1&point=0d9488&area=true&hide_border=true&from=2025-01-01" width="95%"/>
+<!-- Quick stats badges (always load, no external image server) -->
+<img src="https://img.shields.io/github/followers/Kpawankumar?label=Followers&style=flat-square&color=0ea5e9&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKpawankumar&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=6366f1&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<!-- Using githubchart.com — day-level heatmap, very reliable -->
+<div align="center">
+
+[![Pawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kpawankumar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20Jan%202025%20to%20Present)](https://github.com/Kpawankumar)
 
 </div>
 
@@ -87,7 +92,7 @@ class PawanKumar:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
@@ -100,26 +105,27 @@ class PawanKumar:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Kpawankumar/Kpawankumar/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
 
 <details>
-<summary><b>⚙️ How to activate the Contribution Snake (one-time setup)</b></summary>
+<summary><b>⚙️ One-time Snake Setup — click to expand</b></summary>
 
 <br/>
 
-1. Create a new **public repo** named exactly: `Kpawankumar` (same as your username)
-2. Inside it, create the file `.github/workflows/snake.yml` with this content:
+**Step 1:** Make sure a public repo named `Kpawankumar` exists (same as your username).
+
+**Step 2:** Create `.github/workflows/snake.yml` inside it with this content:
 
 ```yaml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:        # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -143,8 +149,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Go to **Actions → Run workflow** to trigger it manually the first time.
-4. The snake SVG will be generated at `output` branch and your README will display it automatically. ✅
+**Step 3:** Go to **Actions tab → Generate Snake Animation → Run workflow**
+
+**Step 4:** Wait ~1 min. The snake will appear here automatically. ✅
 
 </details>
 
@@ -157,63 +164,59 @@ jobs:
 <td width="50%" valign="top">
 
 ### 🤝 Career Match — AI Recruitment Platform
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-[![Live](https://img.shields.io/badge/🟢%20Live-Deployed-22c55e?style=flat-square)](https://github.com/Kpawankumar)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://github.com/Kpawankumar)
 
-**Stack:**
-`React (TypeScript)` `Python` `Flask` `PostgreSQL` `Gemini API` `GCP` `Docker` `Firebase`
+**Stack:** `React (TypeScript)` `Flask` `PostgreSQL` `Gemini API` `GCP` `Docker` `Firebase`
 
 - 🧠 AI-powered resume parsing & semantic job matching
 - 📝 Automated job description generation via LLM
 - 🔐 Role-based dashboards for recruiters & candidates
-- ☁️ Full production deployment on Google Cloud Platform
+- ☁️ Full production deployment on Google Cloud
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 RAG System — Production Q&A Engine
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-[![Live](https://img.shields.io/badge/🟢%20Live-Deployed-22c55e?style=flat-square)](https://github.com/Kpawankumar)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://github.com/Kpawankumar)
 
-**Stack:**
-`Python` `Flask` `React` `HuggingFace` `FAISS` `Docker`
+**Stack:** `Python` `Flask` `React` `HuggingFace` `FAISS` `Docker`
 
 - 📚 Semantic search over curated knowledge bases
-- 🤖 Context-aware LLM generation (no hallucinations)
+- 🤖 Context-aware LLM generation — no hallucinations
 - ⚡ FAISS vector store for fast similarity lookups
-- 🐳 Fully containerized and production-ready
+- 🐳 Fully containerized & production-ready
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Insight Pro — Data Engineering & Analytics Platform
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-[![Live](https://img.shields.io/badge/🟢%20Live-Deployed-22c55e?style=flat-square)](https://github.com/Kpawankumar)
+### 🧠 AI Insight Pro — Analytics & Data Platform
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://github.com/Kpawankumar)
 
-**Stack:**
-`Python` `FastAPI` `BigQuery` `MySQL` `PostgreSQL` `MongoDB` `ChromaDB` `Gemini`
+**Stack:** `Python` `FastAPI` `BigQuery` `PostgreSQL` `MongoDB` `ChromaDB` `Gemini`
 
 - 🗄️ Multi-database ingestion engine (SQL + NoSQL + Cloud)
-- 🔄 ETL pipelines with metadata extraction & query execution
-- ☁️ Cloud integrations across AWS, GCP & Azure
-- 🤖 Multi-agent LLM workflows + RAG pipeline for reports
+- 🔄 ETL pipelines with metadata extraction
+- ☁️ Integrated with AWS, GCP & Azure
+- 🤖 Multi-agent LLM workflows + RAG for reports
 
 </td>
 <td width="50%" valign="top">
 
 ### 👁️ Visual Question Answering System
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Kpawankumar)
-[![Live](https://img.shields.io/badge/🟢%20Live-Deployed-22c55e?style=flat-square)](https://github.com/Kpawankumar)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kpawankumar)
+[![Live](https://img.shields.io/badge/🟢%20Deployed-Live-22c55e?style=flat-square)](https://github.com/Kpawankumar)
 
-**Stack:**
-`Python` `Gemini API` `Flask` `OpenCV`
+**Stack:** `Python` `Gemini API` `Flask` `OpenCV`
 
-- 🖼️ Image-based complex visual reasoning via Gemini
+- 🖼️ Image-based visual reasoning via Gemini multimodal
 - 🌐 Live deployed web interface
-- 🎯 Handles real-world multimodal VQA tasks
-- 🔌 REST API-ready for platform integration
+- 🎯 Handles real-world VQA tasks
+- 🔌 REST API-ready for integration
 
 </td>
 </tr>
@@ -226,16 +229,16 @@ jobs:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎙️ **Speech-to-Text Service** | Real-time audio transcription via Gemini API, REST API-ready | Python, Gemini API, Flask |
+| 🎙️ **Speech-to-Text Service** | Real-time audio transcription via Gemini API | Python, Gemini API, Flask |
 | 📝 **Article Summarizer** | NLP-based document summarization pipeline | Python, Transformers, Flask |
-| 💰 **Employee Salary Prediction** | End-to-end ML model — formulation to deployment | Python, TensorFlow, Scikit-learn |
+| 💰 **Employee Salary Prediction** | End-to-end ML — formulation to deployment | Python, TensorFlow, Scikit-learn |
 | 🤖 **Robotics Suite (ESRC, MBM)** | Line-following robots, Tic-Tac-Toe bot, Bluetooth cars | ESP32, Arduino, IoT, PCB Design |
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -252,7 +255,7 @@ jobs:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Backend & Databases**
 
@@ -298,7 +301,9 @@ jobs:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:6366f1,100:0ea5e9&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let%27s+build+something+amazing+together!" alt="footer typing"/>
+
+<br/><br/>
 
 **⭐ If my work interests you — let's build something together.**
 
