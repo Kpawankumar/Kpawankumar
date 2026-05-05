@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023–2027)** and an **AI/ML Engineer & Platform Developer at AIPlaneTech**. I build production-grade AI systems, full-stack applications, and scalable cloud architectures.
+I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023–2027)** and an **AI/ML Engineer & Platform Developer at [![AIPlaneTech](https://img.shields.io/badge/AIPlaneTech-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiplanetech.com/)**. I build production-grade AI systems, full-stack applications, and scalable cloud architectures.
 
 - 🎯 **Focus:** LLM integrations, RAG pipelines, Computer Vision, Cloud Deployment
 - 🌱 **Learning:** Advanced LLM Agents, System Design, MLOps
@@ -73,43 +73,6 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 
 </div>
 
-<details>
-<summary><b>⚙️ Snake Setup — one-time GitHub Actions config</b></summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml` inside your `Kpawankumar/Kpawankumar` profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake Animation → Run workflow**. Done ✅
-
-</details>
 
 ---
 
@@ -252,7 +215,6 @@ Then go to **Actions → Generate Snake Animation → Run workflow**. Done ✅
 |:---:|:---|
 | 📧 | [pawankumar731179@gmail.com](mailto:pawankumar731179@gmail.com) |
 | 💼 | [linkedin.com/in/pawan-kumar-931343291](https://linkedin.com/in/pawan-kumar-931343291) |
-| 🐙 | [github.com/Kpawankumar](https://github.com/Kpawankumar) |
 | 📍 | Alwar, Rajasthan, India — Open to remote and onsite opportunities worldwide |
 
 </div>
@@ -261,6 +223,13 @@ Then go to **Actions → Generate Snake Animation → Run workflow**. Done ✅
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let%27s+build+something+amazing+together!" alt="footer typing"/>
+
+<br/><br/>
+
+**⭐ If my work interests you — let's build something together.**
+
 *"Shipping real AI products, not just running tutorials."*
 
+</div>
 </div>
