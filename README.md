@@ -5,7 +5,7 @@
 ### AI/ML Engineer · Full-Stack Developer · Open Source Builder
 
 <p>
-  <a href="https://linkedin.com/in/pawan-kumar-931343291">
+  <a href="https://linkedin.com/in/pawankumar73">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -209,7 +209,7 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 | | |
 |:---:|:---|
 | 📧 | [pawankumar731179@gmail.com](mailto:pawankumar731179@gmail.com) |
-| 💼 | [linkedin.com/in/pawan-kumar-931343291](https://linkedin.com/in/pawan-kumar-931343291) |
+| 💼 | [linkedin.com/in/pawankumar73](https://www.linkedin.com/in/pawankumar73) |
 | 📍 | Alwar, Rajasthan, India — Open to remote and onsite opportunities worldwide |
 
 </div>
