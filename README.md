@@ -162,8 +162,8 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 
 </div>
 
----
-## 📊 GitHub Analytics
+<!-- --- -->
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -185,7 +185,7 @@ I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023
 <img src="https://github-profile-trophy.vercel.app/?username=Kpawankumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 </div>
 
----
+--- -->
 
 <!-- ## 🐍 Contribution Snake
 
