@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd-year Computer Science undergraduate at MBM University, Jodhpur (2023–2027)** and an **AI/ML Engineer & Platform Developer at [AIPlaneTech](https://aiplanetech.com/)**. I build production-grade AI systems, full-stack applications, and scalable cloud architectures.
+I'm a **Final year Computer Science undergraduate at MBM University, Jodhpur (2023–2027)** and an **AI/ML Engineer & Platform Developer at [AIPlaneTech](https://aiplanetech.com/)**. I build production-grade AI systems, full-stack applications, and scalable cloud architectures.
 
 - 🎯 **Focus:** LLM integrations, RAG pipelines, Computer Vision, Cloud Deployment
 - 🌱 **Learning:** Advanced LLM Agents, System Design, MLOps
